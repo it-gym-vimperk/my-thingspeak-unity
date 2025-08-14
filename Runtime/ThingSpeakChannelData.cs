@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace MyThingSpeak
+namespace MyThingSpeak.Unity
 {
     public class ThingSpeakChannel
     {

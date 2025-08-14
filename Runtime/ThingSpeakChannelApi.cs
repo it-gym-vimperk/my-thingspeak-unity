@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using Newtonsoft.Json;
 
-namespace MyThingSpeak
+namespace MyThingSpeak.Unity
 {
     public class ThingSpeakChannelApi : MonoBehaviour
     {

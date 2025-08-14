@@ -5,7 +5,7 @@
     "unity": "2021.3",
     "description": "A simple ThingSpeak API fetcher for Unity projects.",
     "dependencies": {
-        "jillejr.newtonsoft.json-for-unity": "13.0.102"
+      	"jillejr.newtonsoft.json-for-unity": "13.0.102"
     },
     "author": {
         "name": "Michal Louda"

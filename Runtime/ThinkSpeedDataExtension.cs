@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace MyThingSpeak
+namespace MyThingSpeak.Unity
 {
     public static class ThinkSpeedDataExtension
     {
