@@ -1,5 +1,5 @@
 {
-    "name": "com.oneday.mythingspeak",
+    "name": "com.oneday.mythingspeak-unity",
     "displayName": "ThingSpeak API for Unity",
     "version": "1.0.0",
     "unity": "2021.3",
@@ -8,7 +8,6 @@
         "jillejr.newtonsoft.json-for-unity": "13.0.102"
     },
     "author": {
-        "name": "Michal Louda",
-        "url": "https://github.com/mloud"
+        "name": "Michal Louda"
     }
 }
