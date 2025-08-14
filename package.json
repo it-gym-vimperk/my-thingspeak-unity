@@ -4,9 +4,6 @@
   "version": "1.0.0",
   "unity": "2021.3",
   "description": "A simple ThingSpeak API fetcher for Unity projects.",
-  "dependencies": {
-    "jillejr.newtonsoft.json-for-unity": "https://github.com/jilleJr/Newtonsoft.Json-for-Unity.git#13.0.102"
-  },
   "author": {
     "name": "Michal Louda"
   }
